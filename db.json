@@ -164,6 +164,21 @@
             "username": "07843453453"
         }
     ],
+    "profile": {
+        "status": true,
+        "message": "user data found",
+        "data": {
+            "name": "Daniel Nsanzumuhire",
+            "nationalId": "113242342342",
+            "phoneNumber": "07843453453",
+            "email": "nsanzudaniel59@gmail.com",
+            "residenceCountry": "Rwanda",
+            "nationality": "Rwanda",
+            "status": "ACTIVE",
+            "address": "KK57ST",
+            "username": "07843453453"
+        }
+    },
     "parcels": [
         {
             "id": "01/01/01/001",
