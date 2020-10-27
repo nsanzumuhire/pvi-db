@@ -75,24 +75,6 @@
                 "size": "450"
             },
             "createdAt": "2020-07-20T16:02:44.558"
-        },
-        {
-            "id": "e5b99022-db5e-48fb-a105-f8d475d3afe1",
-            "refNumber": "REF3454564",
-            "status": "COMPLETED",
-            "property": {
-                "id": "01/01/01/001",
-                "landUse": "AGRICULTURE",
-                "remainingLeaseTerm": 12,
-                "size": 1000,
-                "rightType": "LSLSL",
-                "upi": "01/01/01/001",
-                "isUnderRestriction": false,
-                "isInProcess": false,
-                "isInMortgage": false,
-                "location": "Kigali - Gasabo"
-            },
-            "createdAt": "2020-07-20T16:02:44.558"
         }
     ],
     "transactions": [
