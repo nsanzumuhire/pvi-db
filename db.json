@@ -1,0 +1,243 @@
+{
+    "jobs": [
+        {
+            "id": "0148a81d-bc87-48a9-a4b7-87e0b4f02314",
+            "refNumber": "REF340000",
+            "status": "PENDING",
+            "property": {
+                "id": "01/01/01/001",
+                "landUse": "AGRICULTURE",
+                "remainingLeaseTerm": 12,
+                "size": 1000,
+                "rightType": "LSLSL",
+                "upi": "01/01/01/001",
+                "isUnderRestriction": false,
+                "isInProcess": false,
+                "isInMortgage": false,
+                "location": "Kigali - Gasabo"
+            },
+            "createdAt": "2020-07-20T16:02:44.558"
+        },
+        {
+            "id": "7968a9b6-b9c4-4479-9432-13a2d681b9cf",
+            "refNumber": "REF30000",
+            "status": "COMPLETED",
+            "property": {
+                "id": "01/01/01/001",
+                "landUse": "AGRICULTURE",
+                "remainingLeaseTerm": 12,
+                "size": 1000,
+                "rightType": "LSLSL",
+                "upi": "01/01/01/001",
+                "isUnderRestriction": false,
+                "isInProcess": false,
+                "isInMortgage": false,
+                "location": "Kigali - Gasabo"
+            },
+            "createdAt": "2020-07-20T16:02:44.558"
+        },
+        {
+            "id": "37f6870b-e46b-425b-99ab-afc92dce43a9",
+            "refNumber": "REFE30989",
+            "status": "COMPLETED",
+            "property": {
+                "upi": "01/01/02/4567",
+                "landUse": "COMMERCIAL",
+                "size": "1200"
+            },
+            "createdAt": "2020-07-20T16:02:44.558"
+        },
+        {
+            "id": "27d947e6-e279-4654-8611-cf9235c37bae",
+            "refNumber": "REF676776",
+            "status": "COMPLETED",
+            "property": {
+                "id": "01/01/01/001",
+                "landUse": "AGRICULTURE",
+                "remainingLeaseTerm": 12,
+                "size": 1000,
+                "rightType": "LSLSL",
+                "upi": "01/01/01/001",
+                "isUnderRestriction": false,
+                "isInProcess": false,
+                "isInMortgage": false,
+                "location": "Kigali - Gasabo"
+            },
+            "createdAt": "2020-07-20T16:02:44.558"
+        },
+        {
+            "id": "0423c4cd-efc7-4fc6-b808-9b3a9bff53be",
+            "refNumber": "REF3545345",
+            "status": "COMPLETED",
+            "property": {
+                "upi": "01/01/02/4567",
+                "landUse": "COMMERCIAL",
+                "size": "450"
+            },
+            "createdAt": "2020-07-20T16:02:44.558"
+        },
+        {
+            "id": "e5b99022-db5e-48fb-a105-f8d475d3afe1",
+            "refNumber": "REF3454564",
+            "status": "COMPLETED",
+            "property": {
+                "id": "01/01/01/001",
+                "landUse": "AGRICULTURE",
+                "remainingLeaseTerm": 12,
+                "size": 1000,
+                "rightType": "LSLSL",
+                "upi": "01/01/01/001",
+                "isUnderRestriction": false,
+                "isInProcess": false,
+                "isInMortgage": false,
+                "location": "Kigali - Gasabo"
+            },
+            "createdAt": "2020-07-20T16:02:44.558"
+        }
+    ],
+    "transactions": [
+        {
+            "amount": 24000,
+            "id": "TRANS7687687",
+            "createdAt": "2020-07-20T16:02:44.558",
+            "currentBalance": 34000,
+            "currency": "Rwf"
+        },
+        {
+            "amount": 2000,
+            "id": "TRANS0001",
+            "createdAt": "2020-07-20T16:02:44.558",
+            "currentBalance": 4000,
+            "currency": "Rwf"
+        },
+        {
+            "amount": 12000,
+            "id": "TRANS0045",
+            "createdAt": "2020-07-20T16:02:44.558",
+            "currentBalance": 34000,
+            "currency": "Rwf"
+        },
+        {
+            "amount": 10000,
+            "id": "TRANS0034",
+            "createdAt": "2020-07-20T16:02:44.558",
+            "currentBalance": 30000,
+            "currency": "Rwf"
+        },
+        {
+            "amount": 15000,
+            "id": "TRANS0039",
+            "createdAt": "2020-07-20T16:02:44.558",
+            "currentBalance": 30000,
+            "currency": "Rwf"
+        }
+    ],
+    "users": [
+        {
+            "id": "6feeb25c-f41a-4b75-80e1-7008ead24c5a",
+            "name": "Daniel Nsanzumuhire",
+            "nationalId": "113242342342",
+            "phoneNumber": "07843453453",
+            "email": "nsanzudaniel59@gmail.com",
+            "residenceCountry": "Rwanda",
+            "nationality": "Rwanda",
+            "status": "ACTIVE",
+            "address": "KK57ST",
+            "username": "07843453453"
+        },
+        {
+            "id": "0e6485f9-a729-468b-920f-419f35c3c7d8",
+            "name": "Daniel Nsanzumuhire",
+            "nationalId": "113242342342",
+            "phoneNumber": "07843453453",
+            "email": "nsanzudaniel59@gmail.com",
+            "residenceCountry": "Rwanda",
+            "nationality": "Rwanda",
+            "status": "ACTIVE",
+            "address": "KK57ST",
+            "username": "07843453453"
+        },
+        {
+            "id": "2917f743-3308-4d6e-a618-d334940067c9",
+            "name": "Daniel Nsanzumuhire",
+            "nationalId": "113242342342",
+            "phoneNumber": "07843453453",
+            "email": "nsanzudaniel59@gmail.com",
+            "residenceCountry": "Rwanda",
+            "nationality": "Rwanda",
+            "status": "INACTIVE",
+            "address": "KK57ST",
+            "username": "07843453453"
+        },
+        {
+            "id": "d853656c-758d-49a2-a48c-09fbde05f9a8",
+            "name": "Daniel Nsanzumuhire",
+            "nationalId": "113242342342",
+            "phoneNumber": "07843453453",
+            "email": "nsanzudaniel59@gmail.com",
+            "residenceCountry": "Rwanda",
+            "nationality": "Rwanda",
+            "status": "ACTIVE",
+            "address": "KK57ST",
+            "username": "07843453453"
+        }
+    ],
+    "profile": {
+        "status": true,
+        "message": "user data found",
+        "data": {
+            "name": "Daniel Nsanzumuhire",
+            "nationalId": "113242342342",
+            "phoneNumber": "07843453453",
+            "email": "nsanzudaniel59@gmail.com",
+            "residenceCountry": "Rwanda",
+            "nationality": "Rwanda",
+            "status": "ACTIVE",
+            "address": "KK57ST",
+            "username": "07843453453"
+        }
+    },
+    "parcels": [
+        {
+            "id": "01/01/01/001",
+            "landUse": "AGRICULTURE",
+            "remainingLeaseTerm": 12,
+            "size": 1000,
+            "rightType": "LSLSL",
+            "upi": "01/01/01/001",
+            "isUnderRestriction": false,
+            "isInProcess": false,
+            "isInMortgage": false,
+            "location": "Kigali - Gasabo"
+        },
+        {
+            "id": "01/01/01/002",
+            "landUse": "AGRICULTURE",
+            "remainingLeaseTerm": 12,
+            "size": 1000,
+            "rightType": "LSLSL",
+            "upi": "01/01/01/002",
+            "isUnderRestriction": false,
+            "isInProcess": false,
+            "isInMortgage": false,
+            "location": "Kigali - Gasabo"
+        },
+        {
+            "id": "01/01/01/003",
+            "landUse": "AGRICULTURE",
+            "remainingLeaseTerm": 12,
+            "size": 1000,
+            "rightType": "LSLSL",
+            "upi": "01/01/01/003",
+            "isUnderRestriction": false,
+            "isInProcess": false,
+            "isInMortgage": false,
+            "location": "Kigali - Gasabo"
+        }
+    ],
+    "auth": {
+        "status": true,
+        "code": 200,
+        "userId": "6feeb25c-f41a-4b75-80e1-7008ead24c5a"
+    }
+}
